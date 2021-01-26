@@ -1,5 +1,5 @@
 {
-	"name": "dataflow1",
+	"name": "AIM Dataflow",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {

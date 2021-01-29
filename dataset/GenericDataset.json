@@ -18,11 +18,12 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "OlympicData.csv",
 				"folderPath": {
 					"value": "@dataset().Folder",
 					"type": "Expression"
 				},
-				"container": "demo"
+				"container": "samples"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

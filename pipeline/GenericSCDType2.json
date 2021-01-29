@@ -31,7 +31,7 @@
 						},
 						"datasetParameters": {
 							"GenericInput": {
-								"Folder": "@pipeline().parameters.DimensionTable"
+								"Folder": "@pipeline().parameters.IncomingDimensionFolder"
 							},
 							"ExistingDimensionTable": {
 								"Table": {

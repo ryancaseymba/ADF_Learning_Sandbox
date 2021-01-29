@@ -5,6 +5,9 @@
 			"referenceName": "AIMBlobStorage",
 			"type": "LinkedServiceReference"
 		},
+		"folder": {
+			"name": "ADF Docs Video Demo"
+		},
 		"annotations": [],
 		"type": "Json",
 		"typeProperties": {

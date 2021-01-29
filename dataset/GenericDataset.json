@@ -12,7 +12,7 @@
 			}
 		},
 		"folder": {
-			"name": "SCD"
+			"name": "GenericSCDType2"
 		},
 		"annotations": [],
 		"type": "DelimitedText",

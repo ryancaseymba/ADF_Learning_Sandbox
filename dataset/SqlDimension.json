@@ -11,6 +11,9 @@
 				"defaultValue": "dimOlympicData"
 			}
 		},
+		"folder": {
+			"name": "GenericSCDType2"
+		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": [],

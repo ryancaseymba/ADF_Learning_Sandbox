@@ -2,7 +2,7 @@
 	"name": "GenericSCDType2",
 	"properties": {
 		"folder": {
-			"name": "GenericSCD"
+			"name": "GenericSCDType2"
 		},
 		"type": "MappingDataFlow",
 		"typeProperties": {

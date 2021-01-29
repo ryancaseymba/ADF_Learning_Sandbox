@@ -5,6 +5,9 @@
 			"referenceName": "AzureSynapseAnalytics1",
 			"type": "LinkedServiceReference"
 		},
+		"folder": {
+			"name": "ADF Docs Video Demo"
+		},
 		"annotations": [],
 		"type": "AzureSqlDWTable",
 		"schema": [

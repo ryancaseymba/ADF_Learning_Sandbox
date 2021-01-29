@@ -1,6 +1,9 @@
 {
 	"name": "AIM Dataflow",
 	"properties": {
+		"folder": {
+			"name": "ADF Docs Video Demo"
+		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
 			"sources": [

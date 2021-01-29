@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
-			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=sqlserver-aim.database.windows.net;initial catalog=sqlDB-AIM;user id=dbadmin",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEEtRkFDVE9SWS1BSU1fMjNjNTZhOTEtZTQ4My00MGNmLTk2MzgtZDRmMDQ5Zjc3ODQ1Ig0KfQ=="
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=sqlserver-aim.database.windows.net;initial catalog=Olympics;user id=dbadmin",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEEtRkFDVE9SWS1BSU1fM2RhMzQzMzgtMGE0NC00ZDUyLWJhYmEtM2IxYThlMThhNzgxIg0KfQ=="
 		}
 	}
 }

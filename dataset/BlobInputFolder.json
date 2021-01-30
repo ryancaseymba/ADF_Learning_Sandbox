@@ -8,7 +8,7 @@
 		"parameters": {
 			"filename": {
 				"type": "string",
-				"defaultValue": "DimProducts.csv"
+				"defaultValue": "dimProducts.csv"
 			}
 		},
 		"folder": {

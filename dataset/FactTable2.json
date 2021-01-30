@@ -1,0 +1,18 @@
+{
+	"name": "FactTable2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase3",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "_Fact"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "dbo.FactTable2"
+		}
+	}
+}

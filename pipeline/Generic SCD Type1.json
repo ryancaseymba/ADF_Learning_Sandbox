@@ -21,8 +21,8 @@
 						"type": "DataFlowReference",
 						"parameters": {
 							"dimname": "'dimprods'",
-							"keycol": "'ProductNumber'",
-							"SurrogateKey": "'ProductID'",
+							"keycol": "'ID'",
+							"SurrogateKey": "'Key'",
 							"tablename": "'DimProducts'"
 						},
 						"datasetParameters": {

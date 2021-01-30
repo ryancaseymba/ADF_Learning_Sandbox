@@ -2,6 +2,9 @@
 	"name": "scdT1Generic",
 	"properties": {
 		"description": "This is a generalized Slowly Changing Dimension Type 1 that is parameterized to work against different dimension tables and dimension types.",
+		"folder": {
+			"name": "GenericSCDType1"
+		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
 			"sources": [

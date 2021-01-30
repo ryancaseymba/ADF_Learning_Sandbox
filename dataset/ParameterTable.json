@@ -11,6 +11,9 @@
 				"defaultValue": "DimProducts"
 			}
 		},
+		"folder": {
+			"name": "GenericSCDType1"
+		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": [],

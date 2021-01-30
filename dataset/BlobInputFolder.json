@@ -11,6 +11,9 @@
 				"defaultValue": "DimProducts.csv"
 			}
 		},
+		"folder": {
+			"name": "GenericSCDType1"
+		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {

@@ -27,7 +27,7 @@
 						},
 						"datasetParameters": {
 							"NewMembers1": {
-								"filename": "DimProducts.csv"
+								"filename": "dimProducts.csv"
 							},
 							"ExistingMembers": {
 								"tablename": "DimProducts"

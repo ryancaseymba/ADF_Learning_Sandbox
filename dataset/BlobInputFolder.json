@@ -23,8 +23,8 @@
 					"value": "@dataset().filename",
 					"type": "Expression"
 				},
-				"folderPath": "SampleData/AW",
-				"container": "mycontainer"
+				"folderPath": "ProductData",
+				"container": "samples"
 			},
 			"columnDelimiter": "|",
 			"encodingName": "UTF-8",
